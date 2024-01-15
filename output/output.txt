@@ -1,0 +1,14 @@
+Employees who has worked for 7 consecutive days.
+
+Employee Name: "SiWgh, JaspreeM", Position ID: WFS000424
+Employee Name: "CEreira Jr, JEse", Position ID: WFS000456
+Employee Name: "GAeWdia, JAaW CarXEs", Position ID: WFS000473
+Employee Name: "XEpez WAWez, XAis", Position ID: WFS000522
+Employee Name: "AXcEcer, ECar JesAs", Position ID: WFS000541
+
+Employees who have less than 10 hours of time between shifts but greater than 1 hour.
+
+
+Employees who has worked for more than 14 hours in a single shift.
+
+Employee Name: "DeXgadiXXE REdarMe, ChrisMiaW S", Position ID: WFS000523
